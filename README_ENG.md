@@ -7,7 +7,8 @@
 - **Programme:** Applied Computer Science, specialisation Data Engineering and Multimedia
 - **Author:** Daniel Ślusarczyk
 - **Supervisor:** Grzegorz Sarwas, PhD Eng.
-- **Place and year:** Warsaw 2025
+
+> Warsaw 2025
 
 Repository of a master's thesis. It contains the thesis itself and the source files used to develop the experimental part of the project.
 
