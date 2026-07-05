@@ -7,7 +7,8 @@
 - **Kierunek:** Informatyka Stosowana, specjalność Inżynieria Danych i Multimedia
 - **Autor:** Daniel Ślusarczyk
 - **Promotor:** dr inż. Grzegorz Sarwas
-- **Miejsce i rok:** Warszawa 2025
+
+> Warszawa 2025
 
 Repozytorium pracy dyplomowej magisterskiej. Zawiera pracę dyplomową oraz pliki źródłowe wykorzystane do opracowania części eksperymentalnej projektu.
 
